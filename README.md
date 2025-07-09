@@ -55,7 +55,11 @@ ros2 topic echo /end_effector_position
 
 [Q1 Robotic Arm working video (RIVZ) (Screenrecorded) watch](media/rivz_working_video_Week4A_Kratos.mp4)
 
+<<<<<<< HEAD
 * this file was huge so umm had to use git lft but yeah, we ball 🏀
+=======
+# this file was huge so umm had to use git lft but yeah, we ball 🏀
+>>>>>>> 06e99b7 (Add Q3 inverse kinematics node for interactive end-effector control)
 
 
 
